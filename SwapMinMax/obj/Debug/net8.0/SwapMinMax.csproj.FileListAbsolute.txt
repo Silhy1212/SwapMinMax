@@ -1,0 +1,14 @@
+C:\Users\matej.silhan\RiderProjects\SwapMinMax\SwapMinMax\bin\Debug\net8.0\SwapMinMax.exe
+C:\Users\matej.silhan\RiderProjects\SwapMinMax\SwapMinMax\bin\Debug\net8.0\SwapMinMax.deps.json
+C:\Users\matej.silhan\RiderProjects\SwapMinMax\SwapMinMax\bin\Debug\net8.0\SwapMinMax.runtimeconfig.json
+C:\Users\matej.silhan\RiderProjects\SwapMinMax\SwapMinMax\bin\Debug\net8.0\SwapMinMax.dll
+C:\Users\matej.silhan\RiderProjects\SwapMinMax\SwapMinMax\bin\Debug\net8.0\SwapMinMax.pdb
+C:\Users\matej.silhan\RiderProjects\SwapMinMax\SwapMinMax\obj\Debug\net8.0\SwapMinMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matej.silhan\RiderProjects\SwapMinMax\SwapMinMax\obj\Debug\net8.0\SwapMinMax.AssemblyInfoInputs.cache
+C:\Users\matej.silhan\RiderProjects\SwapMinMax\SwapMinMax\obj\Debug\net8.0\SwapMinMax.AssemblyInfo.cs
+C:\Users\matej.silhan\RiderProjects\SwapMinMax\SwapMinMax\obj\Debug\net8.0\SwapMinMax.csproj.CoreCompileInputs.cache
+C:\Users\matej.silhan\RiderProjects\SwapMinMax\SwapMinMax\obj\Debug\net8.0\SwapMinMax.dll
+C:\Users\matej.silhan\RiderProjects\SwapMinMax\SwapMinMax\obj\Debug\net8.0\refint\SwapMinMax.dll
+C:\Users\matej.silhan\RiderProjects\SwapMinMax\SwapMinMax\obj\Debug\net8.0\SwapMinMax.pdb
+C:\Users\matej.silhan\RiderProjects\SwapMinMax\SwapMinMax\obj\Debug\net8.0\SwapMinMax.genruntimeconfig.cache
+C:\Users\matej.silhan\RiderProjects\SwapMinMax\SwapMinMax\obj\Debug\net8.0\ref\SwapMinMax.dll
